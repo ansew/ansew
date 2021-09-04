@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ansew
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript & React
 - 💞️ I’m looking to collaborate on building some web site
 - 📫 Reach me: vesna983@gmail.com
 
